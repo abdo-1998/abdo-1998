@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdallah!
+👋 Hi, I’m Abdallah!
 - 👀 I’m interested in Game Development, currently my hobby
 - 🌱 I’m currently working as a Software Dev. Engineer!
 
